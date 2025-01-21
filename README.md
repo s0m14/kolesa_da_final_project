@@ -1,1 +1,4 @@
-# kolesa_da_final_project
+# Web-scraping from Kolesa.kz
+## Visualisation
+_____________
+![alt text](visualisation.png)
